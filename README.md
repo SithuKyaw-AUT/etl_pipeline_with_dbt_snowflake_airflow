@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+ETL Pipeline using dbt, snowflake and airflow
+
 Overview
 ========
 
