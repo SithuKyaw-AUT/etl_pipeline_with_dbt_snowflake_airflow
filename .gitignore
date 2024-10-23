@@ -9,3 +9,5 @@ airflow-webserver.pid
 webserver_config.py
 airflow.cfg
 airflow.db
+README.md
+astro_1.30.0_windows_386.exe
