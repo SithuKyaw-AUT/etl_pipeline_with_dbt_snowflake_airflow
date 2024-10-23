@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Overview
 ========
 
@@ -46,3 +47,6 @@ Contact
 =======
 
 The Astronomer CLI is maintained with love by the Astronomer team. To report a bug or suggest a change, reach out to our support.
+=======
+# etl_pipeline_with_dbt_snowflake_airflow
+>>>>>>> 2d4c821e2499fbcd5f7f802957f69357938898e8
