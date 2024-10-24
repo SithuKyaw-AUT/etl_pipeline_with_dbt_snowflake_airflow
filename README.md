@@ -42,7 +42,7 @@ Project Flow
 Prerequisites
 =======
 
-    - Access to Snowflake account.
-    - dbt installed and configured.
-    - Airflow setup with Astronomer Cosmos.
+- Access to Snowflake account.
+- dbt installed and configured.
+- Airflow setup with Astronomer Cosmos.
 
